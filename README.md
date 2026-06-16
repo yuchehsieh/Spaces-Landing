@@ -4,8 +4,6 @@ SKS Spaces Landing Page for online viewing.
 
 This version was designed with the `design-taste-frontend` Codex Skill:
 
-`C:\Users\0268527\.codex\skills\taste-skill\SKILL.md`
-
 ## Design Direction
 
 - Spatial Editorial visual style
